@@ -5,8 +5,8 @@
   
 $.noConflict();
 jQuery(document).ready(function($){
-$('.collection-list').infiniteScroll({
-      path: '.w-pagination-next',    // selector for the paged navigation
+$('.collection-list').infiniteScroll({     // selector for the CMS collection list
+      path: '.w-pagination-next',     // selector for the paged navigation
       append: '.collection-item',     // selector for all items you'll retrieve
       animate      : true,
       loadingText  : "", 
