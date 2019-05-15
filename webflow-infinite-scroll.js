@@ -15,3 +15,4 @@ $('.collection-list').infiniteScroll({     // selector for the CMS collection li
 });
 </script>
 <!-- End Infinite Scroll -->
+//To see a demo of Infinite Scroll in Webflow CMS Collection Lists, visit: www.bestbuds.cool
