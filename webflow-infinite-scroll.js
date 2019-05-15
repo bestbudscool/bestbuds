@@ -1,3 +1,5 @@
+//To see a demo of Infinite Scroll in Webflow CMS Collection Lists, visit: https://bestbuds.cool
+
 <!-- Start Infinite Scroll -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 <script src="https://unpkg.com/infinite-scroll@3/dist/infinite-scroll.pkgd.min.js"></script>
@@ -15,4 +17,3 @@ $('.collection-list').infiniteScroll({     // selector for the CMS collection li
 });
 </script>
 <!-- End Infinite Scroll -->
-//To see a demo of Infinite Scroll in Webflow CMS Collection Lists, visit: https://bestbuds.cool
